@@ -1,0 +1,45 @@
+[INFO ] 2025-02-28 16:50:59,852 TC_001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-02-28 16:51:00,170 TC_001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-28 16:51:00,644 TC_001_AccountRegistrationTest.verify_account_registration() - **** Click on Register link*****
+[INFO ] 2025-02-28 16:51:01,041 TC_001_AccountRegistrationTest.verify_account_registration() - ***Validating expected message ****
+[INFO ] 2025-02-28 16:51:01,924 TC_001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-02-28 16:51:07,788 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-02-28 16:53:47,096 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-02-28 16:57:08,256 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-02-28 17:03:06,291 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-02-28 17:05:50,952 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-02-28 17:05:52,882 TC_002_LoginTest.verify_login() - ****** Finished TC_002_LoginTest *****
+[INFO ] 2025-02-28 17:29:41,848 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-02-28 17:29:43,833 TC_002_LoginTest.verify_login() - ****** Finished TC_002_LoginTest *****
+[INFO ] 2025-02-28 23:06:13,024 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:06:44,993 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:07:15,168 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:07:45,310 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:08:15,437 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:08:45,591 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:09:15,857 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:11:21,902 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:11:53,743 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:12:23,948 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:12:54,234 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:13:24,472 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:13:30,549 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:13:54,749 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:14:03,190 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:14:25,019 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:14:33,356 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:15:03,525 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:15:33,777 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:16:04,016 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:16:34,173 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:18:54,867 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:18:56,660 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:19:16,822 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:19:37,014 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:19:57,206 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:20:17,389 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:20:37,524 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:20:54,326 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:21:16,501 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:21:36,632 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******
+[INFO ] 2025-02-28 23:21:56,801 TC_003_DataDrivenTesting.verify_loginDDT() - ***** stating TC_003_DDT ******

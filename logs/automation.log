@@ -1,0 +1,18 @@
+[INFO ] 2025-03-01 15:55:40,016 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-03-01 18:22:08,130 TC_001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-03-01 18:22:18,120 TC_001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-03-01 18:22:21,748 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-03-01 18:37:29,185 TC_001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-03-01 18:37:59,271 TC_001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-03-01 18:38:02,842 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-03-01 18:50:20,840 TC_001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-03-01 18:50:50,927 TC_001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-03-01 18:50:54,688 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-03-01 22:07:27,397 TC_001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-03-01 22:07:57,460 TC_001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-03-01 22:08:00,603 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-03-01 22:11:58,323 TC_001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-03-01 22:12:28,426 TC_001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-03-01 22:12:31,903 TC_002_LoginTest.verify_login() -  **Staring of TC_002_LoginTest**
+[INFO ] 2025-03-02 18:32:30,902 TC_001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-03-02 18:33:00,998 TC_001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****

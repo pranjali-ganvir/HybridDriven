@@ -1,0 +1,38 @@
+[INFO ] 2025-02-26 21:04:24,582 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:04:24,783 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:04:27,772 TC001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-02-26 21:04:28,071 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:04:28,584 TC001_AccountRegistrationTest.verify_account_registration() - **** Click on Register link*****
+[INFO ] 2025-02-26 21:04:29,082 TC001_AccountRegistrationTest.verify_account_registration() - ***Validating expected message ****
+[INFO ] 2025-02-26 21:04:29,825 TC001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[ERROR] 2025-02-26 21:04:31,857 TC001_AccountRegistrationTest.verify_account_registration() - Test Failed
+[INFO ] 2025-02-26 21:04:34,932 TC001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-02-26 21:06:11,569 TC001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-02-26 21:06:11,573 TC001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-02-26 21:06:11,958 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:06:12,204 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:06:14,307 TC001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-02-26 21:06:14,683 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:06:15,463 TC001_AccountRegistrationTest.verify_account_registration() - **** Click on Register link*****
+[INFO ] 2025-02-26 21:06:15,968 TC001_AccountRegistrationTest.verify_account_registration() - ***Validating expected message ****
+[INFO ] 2025-02-26 21:06:16,951 TC001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-02-26 21:07:11,131 TC001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-02-26 21:07:11,909 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:07:13,049 TC001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-02-26 21:07:13,775 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:07:13,826 TC001_AccountRegistrationTest.verify_account_registration() - **** Click on Register link*****
+[INFO ] 2025-02-26 21:07:14,677 TC001_AccountRegistrationTest.verify_account_registration() - **** Click on Register link*****
+[INFO ] 2025-02-26 21:07:17,010 TC001_AccountRegistrationTest.verify_account_registration() - ***Validating expected message ****
+[INFO ] 2025-02-26 21:07:17,025 TC001_AccountRegistrationTest.verify_account_registration() - ***Validating expected message ****
+[INFO ] 2025-02-26 21:07:17,770 TC001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-02-26 21:07:18,128 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:07:18,810 TC001_AccountRegistrationTest.verify_account_registration() - **** Click on Register link*****
+[INFO ] 2025-02-26 21:07:19,324 TC001_AccountRegistrationTest.verify_account_registration() - ***Validating expected message ****
+[INFO ] 2025-02-26 21:07:22,116 TC001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-02-26 21:07:25,199 TC001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-02-26 21:07:27,148 TC001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
+[INFO ] 2025-02-26 21:16:44,546 TC001_AccountRegistrationTest.verify_account_registration() - ****Starting TC001_AccountRegistrationTest ****
+[INFO ] 2025-02-26 21:16:44,699 TC001_AccountRegistrationTest.verify_account_registration() - ****Click on Account link****
+[INFO ] 2025-02-26 21:16:45,217 TC001_AccountRegistrationTest.verify_account_registration() - **** Click on Register link*****
+[INFO ] 2025-02-26 21:16:45,692 TC001_AccountRegistrationTest.verify_account_registration() - ***Validating expected message ****
+[INFO ] 2025-02-26 21:16:46,695 TC001_AccountRegistrationTest.verify_account_registration() - ***Finished  TC001_AccountRegistrationTest****
